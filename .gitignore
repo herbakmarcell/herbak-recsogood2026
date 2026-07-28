@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Downloaded dataset and generated RecBole exports
+src/data/
+
+# Pipeline outputs
+results/
+models/
+*.log
+
+# CodeCarbon
+emissions.csv
+*_codecarbon_raw.csv
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
