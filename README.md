@@ -1,4 +1,4 @@
-# herbak-recsogood2026
+# Energy Footprint of Data Reduction Strategies for Recommender Systems
 
 Do reduced training datasets make recommender systems greener without wrecking recommendation quality? This project measures the **energy/carbon cost vs. recommendation quality** tradeoff of several dataset-reduction strategies on MovieLens-1M, using **CodeCarbon** for energy measurement and **Cornac** (primary) / **RecBole** (cross-check) as training frameworks.
 
